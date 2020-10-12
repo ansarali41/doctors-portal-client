@@ -1,0 +1,8 @@
+.footer-container{
+    background-image: url('../../../images/footer-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul li{
+    list-style-type: none;
+}
